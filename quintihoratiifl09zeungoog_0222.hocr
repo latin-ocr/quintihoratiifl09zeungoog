@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quintihoratiifl09zeungoog/quintihoratiifl09zeungoog_0222.png"; bbox 0 0 3017 4884; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 495 2249 1049 2411">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 495 2249 1049 2411">
+     <span class='ocr_line' id='line_1_1' title="bbox 495 2249 1049 2310; baseline -0.005 -9"><span class='ocrx_word' id='word_1_1' title='bbox 495 2249 546 2301; x_wconf 74' lang='lat' dir='ltr'><strong>EX</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 560 2249 743 2299; x_wconf 63' lang='lat' dir='ltr'><strong>zomon</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 758 2249 1049 2310; x_wconf 58' lang='lat' dir='ltr'><strong>semmam,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 515 2360 1034 2411; baseline -0.008 -1"><span class='ocrx_word' id='word_1_4' title='bbox 515 2361 604 2410; x_wconf 69' lang='lat' dir='ltr'><strong>Luco.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 614 2360 682 2410; x_wconf 72' lang='lat' dir='ltr'><strong>Bu.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 692 2372 727 2410; x_wconf 79' lang='grc' dir='ltr'><strong>ιτ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 739 2361 883 2411; x_wconf 59' lang='lat' dir='ltr'><strong>Batnon.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 895 2364 965 2409; x_wconf 74' lang='lat'><strong>1⁶⁷⁰.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 977 2364 1034 2409; x_wconf 73' lang='lat' dir='ltr'><strong>nvo.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1514 4884">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1514 4884">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1514 4884; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1514 4884; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
